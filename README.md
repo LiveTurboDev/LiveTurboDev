@@ -17,7 +17,7 @@
 | Платформа | Статус | Где взять |
 |-----------|--------|-----------|
 | 💻 **Windows 10/11** | ✅ Доступно | [Скачать установщик](https://github.com/LiveTurboDev/liveturbo-platforms/releases/latest/download/LiveTurbo-Setup-amd64.exe) · [все релизы](https://github.com/LiveTurboDev/liveturbo-platforms/releases) |
-| 🤖 **Android** | ✅ Доступно | [Google Play](https://play.google.com/store/apps/details?id=ru.liveturbo.app) · [APK](https://github.com/LiveTurboDev/liveturbo-platforms/releases/tag/v0.7.11) |
+| 🤖 **Android** | ✅ Доступно | [Google Play](https://play.google.com/store/apps/details?id=ru.liveturbo.app) · [APK](https://github.com/LiveTurboDev/liveturbo-platforms/releases/tag/v1.0.1) |
 | 🍏 **iOS** | 🛠 В разработке | скоро |
 | 🍎 **macOS** | 🛠 В разработке | скоро |
 
